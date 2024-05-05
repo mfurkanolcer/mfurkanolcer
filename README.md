@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfurkanolcer&label=Profile%20views&color=0e75b6&style=flat" alt="mfurkanolcer" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Django and Biopython**
-
 - 📫 How to reach me **muhammedfurkanolcer@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
